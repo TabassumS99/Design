@@ -1,0 +1,279 @@
+
+  
+ /* Extra small Device. */
+ @media (min-width: 768px) and (max-width: 991px) {
+
+    h2 {
+        font-size: 50px;
+    }
+    p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    /* ==print-area== */
+    .print-img img {
+        height: 400px;
+    }
+    .print-content h2 {
+		font-size: 35px;
+		margin-bottom: 10px;
+	}
+    .crowd-area.print-content h2 {
+		font-size: 26px;
+	}
+    /* ==port-area== */
+    .port-content span {
+        font-size: 40px;
+    }
+
+   } 
+
+/* ==================----------end----------==================== */
+
+
+  /* Extra small Device. */
+  @media (min-width: 576px) and (max-width: 767px) {
+ 
+    .banner {
+        padding-top: 170px;
+        padding-bottom: 130px;
+    }
+    .banner-text {
+        padding-top: 20px;
+    }
+    .print-content h2 {
+		font-size: 30px;
+		margin-bottom: 10px;
+	}
+    .print-area {
+        padding-bottom: 72px;
+    }
+    .print-content p {
+        text-align: left;
+    }
+    .print-content {
+        padding-top: 35px;
+    }
+    #portfolio {
+        padding-bottom: 100px;
+    }
+    .web-area .print-content {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+    /* ==port-area== */
+    .port-content span {
+        font-size: 40px;
+    }
+    .crowd-area.print-content h2 {
+		font-size: 22px;
+	}
+    .crowd-area .print-content p {
+        padding-bottom: 30px;
+    }
+    .top {
+        font-size: 35px;
+    }
+  }
+
+  /* ==================----------end----------==================== */
+
+
+  /* SM Small Device :550px. */
+  @media (min-width: 499px) and (max-width:575px) {
+    header {
+        padding: 16px 0;
+    }
+    
+    .mlr {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .banner {
+        padding-top: 170px;
+        padding-bottom: 130px;
+    }
+    h2 {
+        font-size: 45px;
+    }
+    p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .banner-text {
+        padding-left: 0;
+        padding-top: 18px;
+    }
+    .print-area {
+        padding-top: 90px;
+        padding-bottom: 80;
+    }
+
+    .print-content h2 {
+		font-size: 25px;
+		margin-bottom: 10px;
+	}
+    .print-area {
+        padding-bottom: 72px;
+    }
+    .print-img img {
+        height: 420px;
+    }
+    .print-content p {
+        text-align: left;
+    }
+    .print-content {
+        padding-top: 35px;
+    }
+
+    .web-area .print-content {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+
+    /* ==port-area== */
+    .port-content span {
+        font-size: 40px;
+    }
+
+    .single-prot {
+        padding: 20px 40px;
+    }
+    .port-content {
+        top: 20px;
+        left: 40px;
+        right: 40px;
+        bottom: 20px;
+    }
+    #portfolio {
+        padding-bottom: 100px;
+    }
+    .crowd-area .print-content p {
+        padding-bottom: 30px;
+    }
+    .crowd-area.print-content h2 {
+		font-size: 20px;
+	}
+    .who-content h2 {
+        font-size: 30px;
+    }
+    .footer-top h3 {
+        font-size: 35px;
+        line-height: 35px;
+    }
+    .footer-top {
+        padding-top: 100px;
+        padding-bottom: 90px;
+    }
+    .top {
+        font-size: 35px;
+    }
+
+  }
+  
+/* ==================----------end----------==================== */
+
+  /* xs Small Device :550px. */
+  @media (min-width:0px) and (max-width:300px) {
+    header {
+        padding: 16px 0;
+    }
+    
+    .mlr {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .navbar-toggler-icon img {
+        width: 90%;
+    }
+    .banner {
+        padding-top: 170px;
+        padding-bottom: 130px;
+    }
+    h2 {
+        font-size: 35px;
+    }
+    p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .banner-text {
+        padding-left: 0;
+        padding-top: 18px;
+    }
+    .print-content h2 {
+		font-size: 25px;
+		margin-bottom: 10px;
+	}
+    .print-area {
+        padding-bottom: 40px;
+        padding-top: 60px;
+    }
+    .print-img img {
+        height: 340px;
+    }
+    .print-content p {
+        text-align: left;
+    }
+    .print-content {
+        padding-top: 35px;
+    }
+
+    .web-area .print-content {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+    .web-area {
+        padding-bottom: 40px;
+    }
+    /* ==port-area== */
+    .port-content span {
+        font-size: 40px;
+    }
+    .single-prot {
+        padding: 20px 30px;
+    }
+    .portfolio-area {
+        padding-bottom: 0;
+    }
+    .port-content {
+        top: 20px;
+        left: 40px;
+        right: 40px;
+        bottom: 20px;
+    }
+    .crowd-area {
+        padding-bottom: 80px;
+    }
+    .crowd-area .print-content p {
+        padding-bottom: 30px;
+    }
+    .crowd-area.print-content h2 {
+		font-size: 26px;
+	}
+    .who-content h2 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    #portfolio {
+        padding-bottom: 100px;
+    }
+    .footer-top h3 {
+        font-size: 30px;
+    }
+    .footer-top {
+        padding-top: 100px;
+        padding-bottom: 90px;
+    }
+    .footer-top-content .theme-color {
+        margin-top: 12px;
+    }
+    .footer-top p {
+        font-size: 15px;
+    }
+    .top {
+        font-size: 35px;
+    }
+
+  }
